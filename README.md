@@ -10,6 +10,6 @@ pip install -r requirements.txt
 
 # run
 
-python read_pdf.py
+python readpdf.py
 
 
